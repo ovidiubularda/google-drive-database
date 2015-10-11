@@ -1,0 +1,25 @@
+{
+  "name": "google-drive-database",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ovidiubularda/google-drive-database",
+  "authors": [
+    "Ovidiu Bularda <ovi.b.1988@gmail.com>"
+  ],
+  "description": "Query google drive like a RDBMS",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "Google",
+    "Drive",
+    "Database"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

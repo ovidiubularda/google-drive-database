@@ -1,0 +1,24 @@
+{
+  "name": "google-drive-database",
+  "version": "1.0.0",
+  "description": "Query google drive like a RDBMS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ovidiubularda@github.com/ovidiubularda/google-drive-database.git"
+  },
+  "keywords": [
+    "Google",
+    "Drive",
+    "Database"
+  ],
+  "author": "Ovidiu Bularda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovidiubularda/google-drive-database/issues"
+  },
+  "homepage": "https://github.com/ovidiubularda/google-drive-database#readme"
+}
